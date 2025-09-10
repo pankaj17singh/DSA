@@ -21,15 +21,6 @@ Each program includes its **source code (.c)**, **compiled executable (.exe)**, 
 | Maintain order of +ve , -ve and 0. | [OrderElements.c](./BASICS/OrderElements.c) | ![Output](./BASICS/OUTPUTS/OrderElements.png) |
 | Majority element of array | [MajorityElement.c](./BASICS/MajorityElement.c) | ![Output](./BASICS/OUTPUTS/MajorityElement.png) |
 
----
-
-### 🔹 ARRAYS  
-| Program | Source Code | Output |
-|---------|-------------|--------|
-| Find largest number in array | [LargestNums.c](./DATA%20STRUCTURES/ARRAYS/LargestNums.c) | ![Output](./DATA%20STRUCTURES/ARRAYS/OUTPUTS/LargestNums.png) |
-| Quick Sort implementation | [QuickSort.c](./DATA%20STRUCTURES/ARRAYS/QuickSort.c) | ![Output](./DATA%20STRUCTURES/ARRAYS/OUTPUTS/QuickSort.png) |
-| Remove duplicates from array | [RemoveDuplicates.c](./DATA%20STRUCTURES/ARRAYS/RemoveDuplicates.c) | ![Output](./DATA%20STRUCTURES/ARRAYS/OUTPUTS/RemoveDuplicates.png) |
-| Search element in array | [SearchElement.c](./DATA%20STRUCTURES/ARRAYS/SearchElement.c) | ![Output](./DATA%20STRUCTURES/ARRAYS/OUTPUTS/SearchElement.png) |
 
 ---
 
